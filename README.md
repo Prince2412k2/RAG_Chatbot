@@ -1,3 +1,7 @@
+## You will need ollama on your system
+### in ollama pull qwen2:0.5b
+
+
 # RAG_Chatbot
 Rag chatbot with reranking
 
