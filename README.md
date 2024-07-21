@@ -18,5 +18,7 @@ qwen2:0.5b through Ollama
 ## frontend 
 streamlit
 
+## dependencies
+
 #### **You will need ollama on your system**
 #### **in ollama pull qwen2:0.5b**
