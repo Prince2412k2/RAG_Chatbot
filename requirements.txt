@@ -1,0 +1,8 @@
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+einop
+chromadb
+llama-index-vector-stores-chroma
+streamlit
+langchain-core
